@@ -23,7 +23,7 @@ const ChannelDetail = () => {
     <Box minHeight="95vh" >
       <Box>
         <div style={{
-          background: 'linear-gradient(90deg, rgba(0,2,36,1) 0%, rgba(9,9,121,1) 41%, rgba(0,255,163,1) 100%)',
+          background: 'linear-gradient(90deg, rgba(119,6,133,1) 0%, rgba(214,24,136,1) 41%, rgba(219,255,0,1) 100%)',
           zIndex: 10,
           height: '300px'
         }}
