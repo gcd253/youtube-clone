@@ -41,9 +41,10 @@ const Feed = () => {
             videos
           </span>
         </Typography>
+        <Videos videos={videos} />
       </Box>
 
-      <Videos videos={videos} />
+
     </Stack>
   )
 }
