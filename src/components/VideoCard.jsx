@@ -21,7 +21,6 @@ const VideoCard = ({ video: { id: { videoId }, snippet } }) => {
                         md: '320px'
                     }, height: 180 }}
                     component="img"
-                    component="div"
                 />
             </Link>
             <CardContent sx={{ backgroundColor: '#1e1e1e', height: '106px' }}>
